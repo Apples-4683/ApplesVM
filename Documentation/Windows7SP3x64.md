@@ -10,6 +10,6 @@ Once downloaded, double click it from Windows Explorer and it'll be mounted. Cli
 [END OF OPTIONAL]
 To get lots of updates for Windows 7 that make it feel supported again, go to https://legacyupdate.net. This is REQUIRED for most things done here and outside here.
 Install Supermium again if not installed and go to https://github.com/abbodi1406/vcredist. This link is the all in one script for Visual Studio Runtimes that most games require.
-Now go to my Github repository at https://github.com/Apples-4683/ApplesVM and go to the Releases for DX11 and download the exe.
-When installed run it.
+Now go to my Github repository at https://github.com/Apples-4683/ApplesVM and go to the tag DX11 and download the exe binary.
+When installed, run it and follow the instructions.
 BOOM! YOU SUCCESSFULLY HAVE A SEMI-MODERN 64 BIT WINDOWS 7 MACHINE!
