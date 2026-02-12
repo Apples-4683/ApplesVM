@@ -8,6 +8,6 @@ Click on the virtual DVD driver, run setup.exe and follow the instructions.
 [END OF OPTIONAL]
 Now install supermium if you haven't yet and go to https://legacyupdate.net to install legacy update.
 What does it do? It installs updates for Windows 7 which is essential for security.
-After that install VS runtimes at https://github.com/abbodi1406/vcredist and https://github.com/i486/VxKex for Windows version spoofing using Supermium.
+After that install VS runtimes at https://github.com/abbodi1406/vcredist and https://github.com/YuZhouRen86/VxKex-NEXT/releases/latest for Windows version spoofing using Supermium.
 You should install DirectX11 for this at the tag DX11 in this repository.
 BOOM! YOU SHOULD HAVE A SEMI MODERN WINDOWS 7 MACHINE!
