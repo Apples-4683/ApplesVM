@@ -1,7 +1,7 @@
 # 🍎 ApplesVM: The Windows 7 SP3 Project
 
 This project is a dedicated effort to archive and document the Modernization of Windows 7 in 2026.
-Any problems? Contact me on discord since I am a linux user and I am just visualizing how this update would look like. Discord group code: RgHS2wJyPU
+Any problems? Contact me on discord since I am a linux user and I am just visualizing how this update would look like. Discord link at the end of this document.
 ---
 
 ## Choose Your Architecture
@@ -24,3 +24,4 @@ I only found the DX11 SDK so sorry, its 500MB.
 * **Compatibility:** Downloading the latest libraries that most apps require.
 * **Security:** Bridging the update gap with LegacyUpdate.
 * **Preservation:** Ensuring Windows 7 remains a viable "Semi-Modern" OS.
+[Join the Discord Group](https://discord.gg/RgHS2wJyPU)
