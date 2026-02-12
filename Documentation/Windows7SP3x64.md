@@ -9,7 +9,7 @@ You can open this on the Windows 7 machine since its IE (internet explorer) frie
 Once downloaded, double click it from Windows Explorer and it'll be mounted. Click on the Windows 7 CD-ROM drive and double click setup.exe and follow the instructions. 
 [END OF OPTIONAL]
 To get lots of updates for Windows 7 that make it feel supported again, go to https://legacyupdate.net. This is REQUIRED for most things done here and outside here.
-Install Supermium again if not installed and go to https://github.com/abbodi1406/vcredist and while your at it, https://github.com/i486/VxKex for Windows version spoofing. The first link is the all in one script for Visual Studio Runtimes that most games require.
+Install Supermium again if not installed and go to https://github.com/abbodi1406/vcredist and while your at it, https://github.com/YuZhouRen86/VxKex-NEXT/releases/latest for Windows version spoofing. The first link is the all in one script for Visual Studio Runtimes that most games require.
 Now go to my Github repository at https://github.com/Apples-4683/ApplesVM and go to the tag DX11 and download the exe binary.
 When installed, run it and follow the instructions.
 BOOM! YOU SUCCESSFULLY HAVE A SEMI-MODERN 64 BIT WINDOWS 7 MACHINE!
