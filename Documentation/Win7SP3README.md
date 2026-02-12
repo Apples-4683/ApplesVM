@@ -4,7 +4,7 @@ This project is a dedicated effort to archive and document the Modernization of 
 
 ---
 
-## 🚩 Choose Your Architecture
+## Choose Your Architecture
 Before you start, open **Control Panel > System and Security > System**. Check your "System type" carefully.
 
 | Architecture | Guide Link | Best For... |
@@ -14,7 +14,7 @@ Before you start, open **Control Panel > System and Security > System**. Check y
 
 ---
 
-## 📦 DX11 Binaries
+## DX11 Binaries
 I only found the DX11 SDK so sorry, its 500MB.
 
 **[Download the Preservation Bundle (500MB)](https://github.com/Apples-4683/ApplesVM/releases)**
