@@ -17,7 +17,7 @@ Before you start, open **Control Panel > System and Security > System**. Check y
 ## DX11 Binaries
 I only found the DX11 SDK so sorry, its 500MB.
 
-**[Download the Preservation Bundle (500MB)](https://github.com/Apples-4683/ApplesVM/releases)**
+**[Download the DX11 SDK (500MB)](https://github.com/Apples-4683/ApplesVM/releases)**
 
 ## 🛠️ Project Goals
 * **Connectivity:** Restoring modern web access via Supermium.
