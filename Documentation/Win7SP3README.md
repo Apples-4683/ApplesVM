@@ -1,7 +1,7 @@
 # 🍎 ApplesVM: The Windows 7 SP3 Project
 
 This project is a dedicated effort to archive and document the Modernization of Windows 7 in 2026.
-
+Any problems? Contact me on discord since I am a linux user and I am just visualizing how this update would look like. Discord group code: RgHS2wJyPU
 ---
 
 ## Choose Your Architecture
